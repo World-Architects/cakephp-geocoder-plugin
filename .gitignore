@@ -1,0 +1,17 @@
+## Development meta files
+.idea/
+atlassian-ide-plugin.xml
+.buildpath
+.project
+.settings/
+.DS_Store
+
+## VMs
+.vagrant
+puphpet/*
+
+## Application
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
